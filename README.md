@@ -1,3 +1,2 @@
 Sample Java Applicaiton V3.3
-I am editing in redme file
-hello
+I am editing in readme file
